@@ -1,0 +1,14 @@
+TA-Lib:
+$ brew install ta-lib
+$ pip install TA-Lib
+https://mrjbq7.github.io/ta-lib/install.html
+
+web-socket-client:
+pip install websocket-client
+
+https://pypi.org/project/websocket-client/
+
+python-binance:
+pip install python-binance
+
+https://github.com/sammchardy/python-binance
